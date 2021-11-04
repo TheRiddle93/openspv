@@ -1,7 +1,7 @@
 {
   "name": "@openspv/lib",
   "description": "Bitcoin data structures and cryptographic algorithms.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Coasian",
   "homepage": "https://github.com/openspv/openspv",
   "main": "./index.mjs",
